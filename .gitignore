@@ -8,6 +8,8 @@ build/
 # Ignore log files
 logs/
 *.log
+mongo-data/
+mongo-log/
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
